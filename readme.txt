@@ -1,2 +1,1 @@
-My first Project
- + edit string one
+It's my first a project to GIT.
