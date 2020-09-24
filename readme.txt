@@ -1,1 +1,1 @@
-It's my first a project to GIT.
+Готовим слияние
